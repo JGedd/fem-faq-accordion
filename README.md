@@ -56,4 +56,4 @@ I will continue to learn more about the parentNode in JavaScript and the toggle 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@JGedd](https://www.frontendmentor.io/profile/JGedd)
